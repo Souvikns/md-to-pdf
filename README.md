@@ -1,2 +1,3 @@
 # md-to-pdf
-A simple script that converts markdown files into pdf files. 
+
+The primary concept is to implement a keyboard shortcut that allows you to paste content as a .pdf file after copying a Markdown (.md) file or its file path. This feature would streamline the process of converting Markdown files to PDFs by enabling quick pasting of the content in the desired format. I wanted to have this features while sharing my obsidian notes with other people who does use obsidian. 
